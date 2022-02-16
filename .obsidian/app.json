@@ -1,0 +1,16 @@
+{
+  "defaultViewMode": "preview",
+  "legacyEditor": false,
+  "livePreview": false,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "attachmentFolderPath": "Files",
+  "showUnsupportedFiles": true
+}

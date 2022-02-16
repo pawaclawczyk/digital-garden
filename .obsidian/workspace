@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "5b3b614c0fab6baf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3d91cdb186aae9d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "References/Playing to Win.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d6ad04433c17b05",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aca70be7af79d09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56c81ea0cc4d5c49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7dc5d49a2da7910",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cleanup",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ccfa2cdb1c791b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6129823ae047ec06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18d445bc98cd2491",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "References/Playing to Win.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4963bcc0c9382d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b3d91cdb186aae9d",
+  "lastOpenFiles": [
+    "References/Playing to Win.md",
+    "Notes/Peter Drucker.md",
+    "Templates/Journal.md",
+    "Templates/Idea.md",
+    "Notes/Strategy Reading Schedule.md",
+    "Notes/Privacy Research Schedule.md",
+    "Notes/Obsidian.md",
+    "Notes/Strategy.md",
+    "Notes/Research assistance and tools.md",
+    "Notes/research.md"
+  ]
+}
