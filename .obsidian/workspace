@@ -7,13 +7,8 @@
         "id": "b3d91cdb186aae9d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "References/Playing to Win.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Playing to Win.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +95,15 @@
   },
   "active": "b3d91cdb186aae9d",
   "lastOpenFiles": [
+    "Notes/Differential Privacy Libraries.md",
+    "Notes/Privacy Research Schedule.md",
     "References/Playing to Win.md",
     "Notes/Peter Drucker.md",
     "Templates/Journal.md",
     "Templates/Idea.md",
     "Notes/Strategy Reading Schedule.md",
-    "Notes/Privacy Research Schedule.md",
     "Notes/Obsidian.md",
     "Notes/Strategy.md",
-    "Notes/Research assistance and tools.md",
-    "Notes/research.md"
+    "Notes/Research assistance and tools.md"
   ]
 }

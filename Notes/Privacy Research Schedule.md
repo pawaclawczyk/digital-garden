@@ -13,3 +13,4 @@ tags: [idea, schedule]
 	2. [ ] [[FLEDGE]] - study the proposal (again)
 	3. [ ] [[FLEDGE]] - review the prototype
 2. [ ] Explore which papers might be worth reading
+3. [ ] Explore the [[Differential Privacy]] topic
