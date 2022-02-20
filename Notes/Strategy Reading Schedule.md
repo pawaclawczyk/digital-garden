@@ -10,7 +10,7 @@ tags: [idea, schedule]
 
 ## [[../References/Playing to Win]]
 - [x] 2022-02-17 Chapter 1
-- [ ] 2022-02-18 Chapter 2
+- [x] 2022-02-18 Chapter 2
 - [ ] 2022-02-19 Chapter 3
 - [ ] 2022-02-20 Chapter 4
 - [ ] 2022-02-21 Chapter 5
