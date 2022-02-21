@@ -63,6 +63,8 @@ The background story. P&G attempts to introduce orange juice to the market. It h
 
 The main story. P&G had competitive technology, but the market (plastic bags) was already ruled by large players (similar conditions as in the case of orange juice). This time P&G started looking for a third option beside play-and-lose or licensing out the technology. It started a joint venture with one of the current competitors, giving out the technology, full control over the business and product, and taking only 10% of shares (later 20%). Over the years the business multiplied the initial value.
 
+P&G redefined who "winning" means. The previous approach was to become the market undisputed leader with its own brand. This time P&G didn't enter market directly, instead they take a part in the success of other company's brand.
+
 There are two kinds of winning strategies producing sustainable competitive advantage.
 1. Low-cost strategies. The technology, scale, operational systems allows you to produce the same quality product or service at lower cost than competitors. You may need to sacrifice nonconforming customers.
 2. Differentiation strategies. Your product or service is more valuable to the customers than products or services of the competitors. You can sell it for higher price, while having the costs on the same level as competitors. You must think of every aspect of your product or service. You need to satisfy the individual customer needs and expectations.
@@ -83,11 +85,92 @@ The organizations core capabilities (activities) are those which make strategy s
 
 [[Michael Porter]]
 
+Exercise.
+1. What are the core capabilities of an organization?
+	1. They should be rather organization level than business level. If they're business level then they apply to other organizations as well, and don't create any distinctive capability.
+2. Which are essential?
+	1. Which create real and measurable competitive advantage today?
+		1. Do they have potential to grow in the future?
+	2. Which are relevant and import to majority of organization's activities?
+	3. Which make a real distinction between winning and losing?
+3. (System of activities) What activities supports the core capabilities?
+	1. Do the activities create reinforcing relations?
+4. What is the defensibility of the structure?
+	1. Are there competitors having the same capabilities?
+	2. Can competitors with similar capabilities imitate yours "where to play" and "how to win"?
+		1. Is the activity system easy to copy?
+		2. Is it required to copy the whole system in order to win?
 
+Activity system qualities: feasibility (doable), distinctiveness, defensibility.
 
-## Embedding in Context
+Reverse engineer your competitors system to learn what are the common items and focus on the distinctive ones.
 
-After reading the "Good Strategy/Bad Strategy", I would classify these steps as follows.
+Reinforcing rods. The capability and activity maps differs between levels in an organization. A rod represents a connection between these levels. The costs and efforts are aggregated on higher levels where are optimized (e.g., a common research lab for two or more brands). An aggregation introduces non-negligible cost which would not occur if the subsidiaries were independent companies. It may lead to closing some of the branches (products or services) when the capabilities and activities cannot be utilized in a larger scope.
+
+### Chapter Six: Manage What Matters
+
+[[Chris Argyris]]
+
+P&G adjusted the strategy review meetings to be more focused on discussion related to the strategic questions, rather than long slide-deck presentations and queries for budget acceptance. The discussion was about "where to play" and "how to win" rather than random ideas, performance or people. It improved individual and team strategic thinking capabilities.
+
+The questions to be discussed were delivered to everyone before the meeting, so everyone was able to prepare.
+
+The approach had to be balanced between advocacy of one's own ideas and inquiry towards other ideas. The goal was to discuss and understand one's point of view rather than convince everyone in the room to one's own perspective. The dialog was important.
+
+P&G adapted the OGSM (objectives, goals, strategy, measurements) framework to focus around the questions of "where to play" and "how to win" being core of the S part.
+
+The strategy must be clearly communicated to everyone in the organization. Not only pushed down as formal document through the next levels of managers.
+
+P&G's example of communicating the global strategy company-wide.
+
+>1.  Make the consumer the boss.
+>2.  Win the consumer value equation.
+>3.  Win the two most important moments of truth.
+
+The strategy points explained:
+1. Treat consumer as the key stakeholder.
+2. Create products for every segment of customers - same brand, complementary product categories at different prices.
+3. Confirm the product premise (advertisement) on the first contact with the customer (on store shelf) and on second one - the first use.
+
+[[Clayton Christensen]]
+
+Build systems to support capabilities.
+
+Examples:
+- invest new consumer research methodologies,
+- invest in understanding the innovation process,
+- formalized brand building framework,
+- invest in strategic partnership with retailers,
+- invest in scope and scale,
+- creation of global category managers,
+- consolidating purchases globally.
+
+>what gets measured gets done
+
+>If aspirations are to be achieved, capabilities developed, and management systems created, progress needs to be measured.
+
+Measurements provide focus and feedback.
+
+Measurement must define in advance what are the expected outcomes. It must clearly define ranges of success or not. Humans tend to rationalize any outcome of a measurement. It must be specific.
+
+A success is multidimensional (customers, financial, internal), so must be the measurements of the success.
+
+P&G switch from market TSR (total share revenue) to operating TSR.
+The operating measures mixed the sales growth, profit margin improvement, and increase in capital efficiency; integrated revenue growth, margin growth, and cash productivity.
+
+Create custom metrics, weighting various qualities of a product or service. See if they're able to explain the current market leader position.
+
+### Chapter Seven: Think Through Strategy
+
+## Commentary
+
+The book relates to FMCG corporate business with many divisions, brands and products. The presented patterns and insights may not apply directly to small companies or start-ups with a single product and limited scale.
+
+However, the backbone of strategic thinking and questions to ask still apply to small organizations.
+
+Having a little background on strategy discipline, organization management, and systems thinking, might be helpful while reading this book.
+
+edit this: After reading the "Good Strategy/Bad Strategy", I would classify these steps as follows.
 
 1. Diagnosis:
 	1. What are the aspirations?
@@ -97,5 +180,5 @@ After reading the "Good Strategy/Bad Strategy", I would classify these steps as 
 	1. Where to play?
 	2. How to win?
 3. Supporting policies and coherent actions
-	1. What capabilities are required?
+	1. What capabilities are required? (and activities supporting them)
 	2. What management systems are required?

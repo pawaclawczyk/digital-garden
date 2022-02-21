@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2972c762987905d6",
+        "id": "651d9102a9d8e8ca",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "References/Playing to Win.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Playing to Win.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +93,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2972c762987905d6",
+  "active": "651d9102a9d8e8ca",
   "lastOpenFiles": [
-    "References/Playing to Win.md",
     "Notes/Strategy Reading Schedule.md",
+    "References/Playing to Win.md",
+    "Notes/Optimization of a prebid ad network.md",
+    "Notes/Michael Porter.md",
     "Notes/Peter Drucker.md",
     "Notes/Strategy.md",
     "Notes/Differential Privacy Libraries.md",
     "Notes/Privacy Research Schedule.md",
     "Templates/Journal.md",
-    "Templates/Idea.md",
-    "Notes/Obsidian.md",
-    "Notes/Research assistance and tools.md"
+    "Templates/Idea.md"
   ]
 }
