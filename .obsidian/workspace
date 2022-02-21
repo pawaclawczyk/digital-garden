@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b3d91cdb186aae9d",
+        "id": "2972c762987905d6",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -99,11 +99,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3d91cdb186aae9d",
+  "active": "2972c762987905d6",
   "lastOpenFiles": [
     "References/Playing to Win.md",
-    "Notes/Peter Drucker.md",
     "Notes/Strategy Reading Schedule.md",
+    "Notes/Peter Drucker.md",
     "Notes/Strategy.md",
     "Notes/Differential Privacy Libraries.md",
     "Notes/Privacy Research Schedule.md",
