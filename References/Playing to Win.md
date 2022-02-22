@@ -10,9 +10,33 @@ tags: [reference, book]
 
 ## Details
 
-A. G. Lafley
+- A. G. Lafley (P&G's CEO)
+- Roger L. Martin (Dean of the Rotman School of Management)
+
+[Goodreads](https://www.goodreads.com/book/show/13586928-playing-to-win)
 
 ## Content
+## Introduction: How Strategy Really Works
+
+It's about strategic approach used in P&G. FMCG sector.
+
+Strategy as a discipline. Prior being a part of management discipline.
+
+Strategy is about choices.
+
+> strategy is an integrated set of choices that uniquely positions the firm in its industry so as to create sustainable advantage and superior value relative to the competition
+
+Strategy focuses on building long-term competitive advantage.
+
+Ineffective approaches to strategy:
+1. define strategy as a vision - too high
+2. define strategy as a plan - too low
+3. deny that long-term (or even medium-term) strategy is possible - referring to dynamically changing business environment
+4. define strategy as the optimization of the status quo - does not change activities only optimize them, wrong activities may be optimized, new (not ordinary, not known before) challenges are not being able to overcome using the already applied methods methods
+5. define strategy as following best practices - copy of the industry practices leads to mediocracy
+
+The issue is reluctance to make really hard choices.
+
 ### Chapter One: Strategy Is Choice
 
 Story of "Oil of Olay", and expansion in the skin-care market. They've re-created the brand, to compete with luxury products while having competitive price. The price was set slightly beyond mass-market, but below the luxury one. They sacrifice low-income customers in order to attract the medium and high-income ones. They leverage the way how people translate the price to the quality of product.
@@ -162,6 +186,50 @@ Create custom metrics, weighting various qualities of a product or service. See 
 
 ### Chapter Seven: Think Through Strategy
 
+Start with a prototype strategy. Improve it in iterations. Answer all five questions.
+
+Tools (SWOT, BCG growth matrix, GE-McKinsey nine-box matrix, VRIN model) are helpful but the outcome is un-focused and doesn't cover the whole landscape of strategy.
+
+Authors propose *strategic logic flow* framework to support making decisions on "where to play" and how to win". The framework enforces analysis of the following dimensions:
+1. the industry (segmentation and structure),
+2. the customer values (channels and end consumer),
+3. the relative position (capabilities and costs),
+4. the competition.
+
+Defining industry attractiveness with [[Michael Porter]] five-forces analysis.
+
+- Central: rivalry amongst existing competitors
+- Horizontal axis: bargaining power of suppliers, bargaining power of buyers - which entities capture the industry values - producers, suppliers, or buyers?
+- Vertical axis: threat of new entrants, threat of substitute products or services - what's the value of industry? for how many parties is the value split? how difficult is it to enter the business?
+
+Channels should be analyze when there is intermediary unit between the producer and end consumer (e.g., in the P&G case the retailers). Otherwise it can be omitted.
+
+Understand your customers in qualitative, not quantitative way. Seek closely for what do they care. Consumer surveys just scratch the surface of the real needs.
+
+Don't assume that competitors will be doing the same they're doing today. Will the strategy survive when competition changes their course? If they copy your moves?
+
+Organization strategy building must be a collaborative process. It needs to bring different points and ideas to the table. The communication, decisions and actions need to be done together.
+
+### Chapter Eight: Shorten Your Odds
+
+Reverse engineering strategic options
+
+1. Frame the choice (narrow down to two mutually exclusive choices)
+2. Generate strategic possibilities (what success stories can hide behind the choices, generate as many as possible, it's an inclusive stage)
+3. Specify conditions (what would have to be true for given possibility to happen, don't argue about possibility, lay out the logic required for it, distinguish nice-to-have and must-have conditions, the latter eliminate the possibility, use the logic flow framework)
+4. Identify barriers to choice (skeptic assessment of the conditions, which of them are likely to hold true, why some conditions won't not be true, the undecidable or less likely to be true conditions are the barier conditions - remember that they're already the must have ones)
+5. Design valid tests (design tests for barier conditions, the conditions looks for me like hypothesis, and a good hypothesis is falsifiable)
+6. Conduct tests (start with the most unlikely barier condition, test one at a time, make the test "inch wide and mile deep" - it means very focused and to the detail, instead of wide but shallow)
+7. Choose (not much to do)
+
+### Appendix B: The Microeconomic Foundations of Strategy and the Two Ways to Win
+
+The two ways of winning - by low costs or by differentiation - are explained on the ground of demand-supply theory. The demand is defined as aggregation of specific demand curves of all consumers on the market. The supply is bound the costs, especially the costs varying with the quantity of produced goods.
+
+Competition in the commodity market strongly follows the demand-supply behavior and the price is dictated by the market. New entrants usually copy the best competitors and improve a little bit, so the variable cost get lower and price may be decreased. Such situation can push the competitors with high costs out of the market. Which further decrease the available quantity of the product and price can rise.
+
+On a unique (product or service) market, the producer is rather price-setter than price-taker. The profit is based on optimizing price and quantity, finding the sweat-spot between the cases where the demand is too low and where the price is too low. Companies on this market take care of every customer as the demand is reduced by the profit optimizations.
+
 ## Commentary
 
 The book relates to FMCG corporate business with many divisions, brands and products. The presented patterns and insights may not apply directly to small companies or start-ups with a single product and limited scale.
@@ -170,15 +238,4 @@ However, the backbone of strategic thinking and questions to ask still apply to 
 
 Having a little background on strategy discipline, organization management, and systems thinking, might be helpful while reading this book.
 
-edit this: After reading the "Good Strategy/Bad Strategy", I would classify these steps as follows.
-
-1. Diagnosis:
-	1. What are the aspirations?
-	2. Where to play? (researching and understanding of options and past experiences)
-	3. How to win? (researching and understanding of options and past experiences)
-2. Guiding policy
-	1. Where to play?
-	2. How to win?
-3. Supporting policies and coherent actions
-	1. What capabilities are required? (and activities supporting them)
-	2. What management systems are required?
+My prior knowledge of strategy as a discipline comes from [[Good Strategy / Bad Strategy]]. I didn't found any strictly contradictory points between them. This book shares some tools and frameworks helping to craft a strategy. Also, [[Systems Thinking: A Primer]]) was helpful to understand the topic of capabilities and activities system, and reinforcing relations.

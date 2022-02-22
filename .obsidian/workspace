@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "651d9102a9d8e8ca",
+        "id": "bb7966cc75281372",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Web Almanac.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cleanup",
+                "query": "tag:#idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,13 +70,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Web Almanac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -85,25 +91,37 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "dc3a570b4f01fe5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Web Almanac.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "651d9102a9d8e8ca",
+  "active": "bb7966cc75281372",
   "lastOpenFiles": [
-    "Notes/Strategy Reading Schedule.md",
+    "Notes/Web Almanac.md",
+    "Notes/Advertising at Twitter.md",
     "References/Playing to Win.md",
-    "Notes/Optimization of a prebid ad network.md",
-    "Notes/Michael Porter.md",
-    "Notes/Peter Drucker.md",
-    "Notes/Strategy.md",
-    "Notes/Differential Privacy Libraries.md",
-    "Notes/Privacy Research Schedule.md",
+    "Notes/Obsidian.md",
+    "Notes/Four Types of Data Analytics.md",
     "Templates/Journal.md",
-    "Templates/Idea.md"
+    "Notes/Data Mesh vs Data Lake.md",
+    "Notes/Optimization of a prebid ad network.md",
+    "Notes/Huberman Lab.md",
+    "Notes/Strategy Reading Schedule.md"
   ]
 }
