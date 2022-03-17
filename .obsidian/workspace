@@ -7,13 +7,8 @@
         "id": "bb7966cc75281372",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Web Almanac.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Web Almanac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Web Almanac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,15 +106,15 @@
   },
   "active": "bb7966cc75281372",
   "lastOpenFiles": [
+    "Notes/Untitled.md",
+    "Notes/mlflow.md",
+    "Notes/Machine Learning Lifecycle.md",
     "Notes/Web Almanac.md",
     "Notes/Advertising at Twitter.md",
     "References/Playing to Win.md",
     "Notes/Obsidian.md",
     "Notes/Four Types of Data Analytics.md",
     "Templates/Journal.md",
-    "Notes/Data Mesh vs Data Lake.md",
-    "Notes/Optimization of a prebid ad network.md",
-    "Notes/Huberman Lab.md",
-    "Notes/Strategy Reading Schedule.md"
+    "Notes/Data Mesh vs Data Lake.md"
   ]
 }
