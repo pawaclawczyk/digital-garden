@@ -8,6 +8,6 @@ tags: [idea]
 
 # Peter Drucker
 
-Whenever I read something about [[Strategy]] and [[organization management]] I see this name. I need to explore his works.
+Whenever I read something about [strategy](Strategy.md) and [organization management](Organization%20Management.md) I see this name. I need to explore his works.
 
 The purpose of an organization is to create a customer.

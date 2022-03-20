@@ -1,29 +1,34 @@
 {
   "main": {
-    "id": "5b3b614c0fab6baf",
+    "id": "547ca31f2c0ebe18",
     "type": "split",
     "children": [
       {
-        "id": "bb7966cc75281372",
+        "id": "ea7acae94843e487",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Four types of data analytics.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": true
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1d6ad04433c17b05",
+    "id": "d35bec4e96a59cce",
     "type": "split",
     "children": [
       {
-        "id": "1aca70be7af79d09",
+        "id": "8b3d4976c4553cdb",
         "type": "tabs",
         "children": [
           {
-            "id": "56c81ea0cc4d5c49",
+            "id": "913ec480a86f5c88",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,12 +36,12 @@
             }
           },
           {
-            "id": "e7dc5d49a2da7910",
+            "id": "567ea0f033bceb40",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,31 +57,44 @@
     "width": 300
   },
   "right": {
-    "id": "9ccfa2cdb1c791b2",
+    "id": "f74d2b87f304f264",
     "type": "split",
     "children": [
       {
-        "id": "6129823ae047ec06",
+        "id": "e242c134f12df788",
         "type": "tabs",
         "children": [
           {
-            "id": "18d445bc98cd2491",
+            "id": "ccc237a8cd6793fb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Four types of data analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d4963bcc0c9382d5",
+            "id": "e5fe56209fb88a68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Four types of data analytics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b090d781b744653e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -85,36 +103,25 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "dc3a570b4f01fe5a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "bb7966cc75281372",
+  "active": "ea7acae94843e487",
   "lastOpenFiles": [
-    "Notes/Untitled.md",
+    "Notes/Four types of data analytics.md",
+    "Notes/How can I support our data science team?.md",
     "Notes/mlflow.md",
-    "Notes/Machine Learning Lifecycle.md",
-    "Notes/Web Almanac.md",
+    "Notes/Organization Management.md",
+    "Notes/How to work. Short projects, variate topics..md",
     "Notes/Advertising at Twitter.md",
-    "References/Playing to Win.md",
-    "Notes/Obsidian.md",
-    "Notes/Four Types of Data Analytics.md",
-    "Templates/Journal.md",
-    "Notes/Data Mesh vs Data Lake.md"
+    "Notes/Strategy.md",
+    "Templates/Journal Entry.md",
+    "Notes/Peter Drucker.md",
+    "Notes/My reading journal.md"
   ]
 }
