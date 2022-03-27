@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Four types of data analytics.md",
-            "mode": "preview",
+            "file": "Notes/Topic Modeling.md",
+            "mode": "source",
             "backlinks": true,
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Four types of data analytics.md",
+                "file": "Notes/Topic Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Four types of data analytics.md",
+                "file": "Notes/Topic Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +113,15 @@
   },
   "active": "ea7acae94843e487",
   "lastOpenFiles": [
+    "Notes/Topic Modeling.md",
+    "Notes/MLOps.md",
+    "Notes/End to End Machine Learning Workflow.md",
+    "Notes/My reading journal.md",
+    "Notes/Machine Learning Lifecycle.md",
+    "Notes/Michael Porter.md",
     "Notes/Four types of data analytics.md",
     "Notes/How can I support our data science team?.md",
     "Notes/mlflow.md",
-    "Notes/Organization Management.md",
-    "Notes/How to work. Short projects, variate topics..md",
-    "Notes/Advertising at Twitter.md",
-    "Notes/Strategy.md",
-    "Templates/Journal Entry.md",
-    "Notes/Peter Drucker.md",
-    "Notes/My reading journal.md"
+    "Notes/Organization Management.md"
   ]
 }
