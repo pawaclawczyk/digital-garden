@@ -12,6 +12,7 @@ tags: [idea]
 - Extract meaning from text
 - Identify recurring themes and topics in text
 - Text is [[unstructured data]]
+- What's the relation between topic modeling and [[Keyword Extraction]]?
 
 ## Tasks
 

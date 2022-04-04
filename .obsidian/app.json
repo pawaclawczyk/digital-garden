@@ -13,5 +13,5 @@
   "newFileFolderPath": "Notes",
   "attachmentFolderPath": "Files",
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false
 }
