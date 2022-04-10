@@ -14,3 +14,8 @@ I know a few solutions only by their names. They are:
 - Kubeflow
 - SageMaker
 - Vertex AI
+
+## Relations
+
+[[Machine Learning]]
+[[Data Processing Workflow]]

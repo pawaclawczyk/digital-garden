@@ -12,4 +12,10 @@ tags: [idea]
 - [[Topic Modeling]]
 ## Resources
 - [awesome-nlp](https://github.com/keon/awesome-nlp)
-	
+
+### Thoughts
+
+- What practical use cases do you see?
+	- Twitter keyword analysis?
+	- Confluence documents keyword analysis?
+	- Blog posts keyword analysis? (I.e. I don't have enough time to read everything, but it could be somehow indexed by keywords and content quality for later read.)

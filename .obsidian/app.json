@@ -1,10 +1,10 @@
 {
   "defaultViewMode": "preview",
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "foldHeading": true,
   "showLineNumber": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "trashOption": "local",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
