@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Data Processing Workflow.md",
+            "file": "Notes/How to run a research project.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Data Processing Workflow.md",
+                "file": "Notes/How to run a research project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Data Processing Workflow.md",
+                "file": "Notes/How to run a research project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,15 +113,15 @@
   },
   "active": "b21ced7ff86d5aef",
   "lastOpenFiles": [
+    "Notes/How to run a research project.md",
+    "Notes/Budget Pacing for Targeted Online Advertising at LinkedIn.md",
+    "Notes/How can I support our data science team?.md",
     "Notes/Data Processing Workflow.md",
     "Notes/End to End Machine Learning Workflow.md",
     "Notes/Machine Learning.md",
     "Notes/Atlassian Document Format.md",
     "Notes/Natural Language Processing.md",
     "Notes/Awesome Resources.md",
-    "Notes/NLP.md",
-    "Notes/Keyword Extraction.md",
-    "Notes/Topic Modeling.md",
-    "Notes/MLOps.md"
+    "Notes/NLP.md"
   ]
 }
