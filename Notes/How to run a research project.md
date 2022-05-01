@@ -10,26 +10,60 @@ tags: [idea]
 
 ## Background
 
-It appears that running a research project is not that easy task as one would expect. It's easy to start and explore whatever we found interesting at the moment. However, it's hard to manage the progress, outputs and outcomes.
+It appears that running a research project is not that easy task as one would expect. It's easy to start and explore whatever you found interesting at the moment. However, it's hard to manage the progress, outputs and outcomes.
 
-## Where do I start?
+## My workflow
 
-In my case, a research project starts with a more or less clear problem statement or an article (a set of articles).
+I usually start a research project with a more or less clear problem statement or an article.
 
-When the ignition point is a problem statement I try to produce more questions and some early answers (or would rather say hypothesis). It often leads to jumping into implementation, and often as well, appears to be dead end and some research and reading has to take place.
+### Start with a problem statement
 
-When it comes to articles - I might got interested just by the title - I usually read it twice. The first go is a reconnaissance - I try to capture the general idea, assess my understanding of the topic and the article, optionally reject the article. The second run is more deliberate - I try to understand what I read, the concepts, theory, and the connections between them.
+The first formulation of the problem may be vague and not comprehensible.
 
-After double reading, it's the time to check what I did understood so far, so I write down a summary or describe the main idea to someone else. If I stuck in the middle, it's a signal that I need to get back to the text once again, maybe just for re-reading the problematic part.
+Play with your problem statement.
 
-Once, I build confidence that I have some understanding of the article, topic or concept, I decide what to do next:
-- Should I build a prototype? A complete one or just part of it?
-- Should I build a simulation or do analysis to see if I can repeat the premised results?
-- Should I search for related articles and study them first?
-- Should I stop the project?
+Do you have other directly related questions? Is your problem statement a generalization for other problems? What are they?
 
-## Prototyping
+Can the problem be divided into cases? Are these mutually exclusive or overlapping cases? Are there edge cases? 
 
-## Examples
+Is the rough answer to your sounds like "it depends"? It suggest that there are dependencies leading to different conclusions or solutions of the problem. What are they? What are the consequences?
 
-Example problem statement: Could we build an ML solution only on synthetic data - not being exactly the same in structure or distribution as the real data - and still be capable to use this solution in a real project?
+Define conditions for the problem and its solution. When does the problem occurs? Is it caused by something? When would you consider any solution valid for the stated problem?
+
+Formulate your hypothesis. Start with null hypothesis. Make sure your hypothesis are falsifiable. 
+
+Search for existing solutions or attempts to solve exact same or similar problems.
+
+Take time and get familiar with the work of others.
+
+Be patient, don't to jump directly into code editor.
+
+### Start with an article
+
+Read once to get a general idea and context. Fit it into your domain, experience, or a problem at hand.
+
+Read twice to get a deeper understanding of the concepts, relations, terms, and finally - conclusions and solutions. You don't need to understand every term and equation, you need to understand it enough to use it.
+
+Validate what did you understood and if your understanding is comprehensive. Write a summary of the article. Define applications of the conclusions or solutions. What problems could you solve with it? Explain the article to someone else.
+
+### Prototyping
+
+It's time to put the new knowledge into practice.
+
+You may want to see in practice how the solution works. You may want to start a deeper exploration of the solution. You may want to validate the results.
+
+You must know what are going to have as an output.
+
+You can do multiple prototypes. You can intertwine development and theoretical research.
+
+### Documenting
+
+If the problem is fascinating for you then it's easy to pursue every new thought. Once you get lost or reach a dead end it is hard to get back to a point where you can take other path.
+
+Keep track of what are you researching, what outputs do you expect, what decisions do you make and why, what are the actual results, what conclusions you reach.
+
+Don't track only the overarching issue. Track every small piece of work that could be set between a question and an answer.
+
+It might seem boring and taking you off the problem. However, the process of conveying your thoughts from your mind to a sheet of paper, will help you formulating them and grounding into reality.
+
+Taking a break to write down what you've already learned or do other mundane tasks will shift your brain from focus mode into a diffuse mode. And it will start solving your problem in the background making use of other information you may not consider related to the problem domain.
