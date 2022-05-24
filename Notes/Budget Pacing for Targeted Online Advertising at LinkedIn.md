@@ -8,17 +8,15 @@ tags: [research-journal]
 
 # Budget Pacing for Targeted Online Advertising at LinkedIn
 
-## Methodology
-
-1. Read the paper
-2. Write a summary of the core idea
-3. Implement a simulation and prototypical ad server with ASAP and throttled pacing technique.
-
-## Worth consideration
-
-- How will the algorithm behave if we use artificial forecast, i.e. uniform distribution?
+- [ ] #todo link the paper
 
 ## Journal
+
+- Friday 2022-05-13 19:16:43 
+	- I must update the workflow with what I've learned recently about [[Dagster]] IO managers.
+	- I'm not sure if the report generation should be part of the workflow.
+		- Maybe report yes, but I must write conclusions after it will be generated.
+	- I must add case with uniform forecast distribution.
 
 - 2022-04-15
 	- I'm starting the research journal. I will mention some of the earlier decisions, but won't recreate all of them.

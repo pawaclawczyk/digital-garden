@@ -8,6 +8,9 @@ tags: [journal]
 
 # Technology Journal
 
+- Thursday 2022-05-19 14:31:09 
+	- Is there a tool for merging `kubectl` config files? I had to do it manually, and I think it's easy to make errors. [[Kubernetes]]
+
 - Tuesday 2022-17-03 17:17:01 
 	- #dagster #kubernetes 
 	- #todo Deploy Dagster on Kubernetes.
