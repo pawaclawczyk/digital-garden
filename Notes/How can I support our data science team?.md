@@ -12,7 +12,7 @@ tags: [idea]
 
 ### What platforms or tool should be used for the purpose?
 
-I need to review the [[mlflow]] platform. AFAIK, it provides API to collect information during the process and UI to review collected information and compare models.
+I need to review the [[MLflow]] platform. AFAIK, it provides API to collect information during the process and UI to review collected information and compare models.
 
 ### What are the principles and patterns to follow?
 

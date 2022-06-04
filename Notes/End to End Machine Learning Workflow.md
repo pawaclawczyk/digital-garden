@@ -8,14 +8,9 @@ tags: [idea]
 
 # End to End Machine Learning Workflow
 
-I know a few solutions only by their names. They are:
+## Frameworks and Platforms
 
-- MLFlow
+- [[MLflow]]
 - Kubeflow
-- SageMaker
-- Vertex AI
-
-## Relations
-
-[[Machine Learning]]
-[[Data Processing Workflow]]
+- AWS SageMaker
+- Google Vertex AI
