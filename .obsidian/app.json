@@ -5,7 +5,7 @@
   "foldHeading": true,
   "showLineNumber": true,
   "spellcheck": true,
-  "trashOption": "local",
+  "trashOption": "system",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
