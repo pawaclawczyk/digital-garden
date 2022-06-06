@@ -1,0 +1,19 @@
+- Assumptions
+	- I think that a healthy man should be able to perform an aerobic activity for a medium period of time (30-60 minutes) on a daily basis. It should not be an extreme effort for someone in a good shape.
+	- I decided to run daily for at least 30 minutes.
+	- I don't care about the pace.
+	- I run after the work or as soon as possible during the weekends or holidays.
+- The last strike started on May 25, 2022.
+- I had to change my eating habits.
+	- I cannot run too early after a main meal.
+	- I cannot run without eating a main meal.
+	- So, I scheduled my lunch at 12 PM. I makes me feel light and comfortable at 5 PM when I usually run.
+	- After the exercise I hardly can stop eating until I feel full. It leads to over-eating.
+	- So, right after the exercise I eat something that makes me feel full, e.g. yoghurt with oatmeal and fruits.
+- I had to change my sleeping habits.
+	- Despite the low-volume exercise my body feels exhausted from time to time.
+	- The best know way to regenerate is to sleep well.
+	- So, I decide to do as much as I can to grant myself about 8 hours of rest. It implies to go to sleep before 11 PM.
+	- In order to ensure good quality of the sleep, I put away all screen devices at least an hour earlier. It means no work and no entertainment in front of a computer, tablet or TV.
+---
+#lifestyle

@@ -1,0 +1,20 @@
+- Workflow
+	- A set of tasks organized by dependencies into a direct acyclic graph.
+	- A workflow can be triggered to run in various ways:
+		- manually,
+		- on schedule,
+		- by a state change of an external resource, e.g. new file in a storage,
+		- on an event, e.g. if the observed resource is a message queue,
+		- programmatically, e.g RPC or HTTP API.
+	- A workflow should be able to handle a failure of a task using different strategies, e.g. restart the failed task, call other task, or send notification.
+- Task
+	- An atomic unit of work.
+	- Atomic means that in the case of failure the whole task is re-run.
+	- Inputs and outputs of a task are well defined and persistent.
+	- The output of a task is the input of a dependent task.
+	- Independent (in terms of input-output relation) tasks can be executed in parallel.
+- Deployment and execution
+	- (Usually) An orchestrator framework or platform have a daemon responsible for triggering and monitoring of the workflows, and a web user interface.
+	- The tasks, however, can be executed outside of the core platform components, e.g. on Kubernetes or Spark cluster.
+---
+#dagster 

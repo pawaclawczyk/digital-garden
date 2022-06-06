@@ -1,0 +1,17 @@
+- Activity converted into routine does not require too much will-power, so there is no space for self-negotiations or procrastination.
+- It does not mean that once worked out routine will last forever.
+- Routines are working well if there is a larger pattern.
+	- Every work day, I mean usually, I finish my work at office at 4 PM, drive home, and go out for at least 30 run.
+	- However, sometimes I work from home.
+	- There are weekends which absolutely do not fit the pattern "finish work and go running".
+- If the pattern occasionally is not there, then do your routine as soon as possible. Don't negotiate with yourself. Just check it as done, immediately.
+- Patterns correlated with time become schedules.
+- Schedule helps to find a recurring time window among other mundane or accidental activities during.
+- Schedules might seem rigid, not allowing for spontaneous activities, or limiting creativity.
+- It's easier to deliberately break a pattern and skip routine activity, than to perform the activity over long period of time just by the so called "will-power".
+- Routine support creativity, not contradict it.
+	- It grants a dedicated time to work on your creative task regularly.
+	- It helps with getting through the less exciting period of gaining experience and knowledge before it will be possible to use it in a creative way.
+- My routines
+	- [[Running Routine]]
+---

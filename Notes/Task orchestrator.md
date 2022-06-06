@@ -1,0 +1,10 @@
+- #snapshot
+- Task
+	- A task is a unit of work
+	- Task's boundaries are usually defined by persistent inputs and outputs
+	- If task fails it is re-run as a whole
+- Workflow
+	- Tasks are organized into workflows
+- Frameworks
+	- [ApacheAirflow]()
+	- [[Dagster]]
