@@ -7,9 +7,17 @@
         "id": "55ddb558cb9ce177",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "a20219c34c7030cf",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "TOC.md",
+            "file": "Notes/Dagster user code deployment auto-discovery.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -67,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 611.5
+    "width": 231.5
   },
   "right": {
     "id": "f74d2b87f304f264",
@@ -83,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,15 +132,15 @@
   },
   "active": "55ddb558cb9ce177",
   "lastOpenFiles": [
-    "TOC.md",
     "Notes/Dagster.md",
+    "Notes/Dagster user code deployment auto-discovery.md",
+    "Journal/2022-06-07 Tuesday.md",
+    "TOC.md",
     "Notes/Workflow orchestrator concepts.md",
     "Notes/Natural Language Processing.md",
     "Notes/My reading journal.md",
     "Notes/Lifestyle.md",
     "Notes/Dagster - Research Journal.md",
-    "Notes/Dagster with Spark.md",
-    "Notes/Cyber Security.md",
-    "Notes/Clayton Christensen.md"
+    "Notes/Dagster with Spark.md"
   ]
 }
