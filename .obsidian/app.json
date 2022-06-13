@@ -10,8 +10,8 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Notes",
-  "attachmentFolderPath": "Files",
+  "newFileFolderPath": "/",
+  "attachmentFolderPath": "__files",
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": true
 }

@@ -1,6 +1,6 @@
 {
   "format": "YYYY-MM-DD dddd",
-  "folder": "Journal",
-  "template": "",
+  "folder": "journals",
+  "template": "__templates/journal",
   "autorun": true
 }
