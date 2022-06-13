@@ -5,16 +5,13 @@ public: true
 language: en
 tags: [idea]
 ---
-
 # Natural Language Processing
 ## Tasks
 - [[Keyword Extraction]]
 - [[Topic Modeling]]
 ## Resources
 - [awesome-nlp](https://github.com/keon/awesome-nlp)
-
-### Thoughts
-
+## Thoughts
 - What practical use cases do you see?
 	- Twitter keyword analysis?
 	- Confluence documents keyword analysis?

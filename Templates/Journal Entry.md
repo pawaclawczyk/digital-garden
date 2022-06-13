@@ -1,3 +1,0 @@
-- {{date:dddd}} {{date:YYYY-MM-DD}} {{time:HH:mm:ss}} 
-	- #tags-here
-	- *write note here...*
